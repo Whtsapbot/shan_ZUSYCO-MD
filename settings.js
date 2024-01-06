@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94762376452",
   SUDO_NUMBERS : "94726365592,94726365592",
-  OWNER_NAME: "『 𝙼𝚁 shan 』",
+  OWNER_NAME: "『 Shan  』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -48,13 +48,13 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false ,
      ONLY_COMMANDS : false,
      STATUS : true,
   },
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true ,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
