@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94762376452",
-  SUDO_NUMBERS : "94762376452,94762376452",
+  OWNER_NUMBER: "94726365592",
+  SUDO_NUMBERS : "94726365592,94726365592",
   OWNER_NAME: "『 Shan  』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -38,7 +38,7 @@ module.exports = {
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ Shan ]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : true,
