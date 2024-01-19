@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94726365592",
-  SUDO_NUMBERS : "94726365592,94726365592",
-  OWNER_NAME: "『 Shan  』",
+  OWNER_NUMBER: "94704927819",
+  SUDO_NUMBERS : "94704927819",
+  OWNER_NAME: "『𝐒𝐂𝐎𝐎𝐁𝐘 𝐌𝐈𝐔𝐒𝐈𝐂⛓️📱🫀』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
