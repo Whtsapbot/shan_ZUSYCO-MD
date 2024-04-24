@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94704927819",
-  SUDO_NUMBERS : "94704927819",
-  OWNER_NAME: "『𝐒𝐂𝐎𝐎𝐁𝐘 𝐌𝐈𝐔𝐒𝐈𝐂⛓️📱🫀』",
+  OWNER_NUMBER: "27653631836",
+  SUDO_NUMBERS : "27653631836",
+  OWNER_NAME: "SHAN",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/72a67d4e6585ae6396b43.jpg',
+    ALIVE: 'https://telegra.ph/file/c738412a008f40900e2d5.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -49,10 +49,10 @@ module.exports = {
   },
   READ : {
      ALL_MESSAGES : false ,
-     ONLY_COMMANDS : false,
+     ONLY_COMMANDS : true,
      STATUS : true,
   },
-  BOT_OFFLINE : true,
+  BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true ,
   OWNER_REACT : '🤵‍♂️',
