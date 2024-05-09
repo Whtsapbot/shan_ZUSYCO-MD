@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "27653631836",
-  SUDO_NUMBERS : "27653631836",
+  OWNER_NUMBER: "94726365592",
+  SUDO_NUMBERS : "94726365592",
   OWNER_NAME: "SHAN",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -27,8 +27,8 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
